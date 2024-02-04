@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SadmanSakib
-- 👀 I’m interested in JavaScript ecosystem
-- 💞️ I’m looking to collaborate on full stack MERN project
+- 👀 I’m interested in web application development specially based JavaScript, React js & Node js
+- 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me sakibsadman108@gmail.com
 
 <!---
