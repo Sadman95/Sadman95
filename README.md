@@ -5,6 +5,16 @@
 - 🔗 [View my Resume](https://docs.google.com/document/d/1gspN0Rkg3s1o0BbtptoTGjScnJ_d2dnPvOubF0Z9HMI/edit?usp=sharing)
 
 <!-- LEETCODE_STATS_START -->
+
+## 🏅 My LeetCode Stats
+
+| Difficulty | Problems Solved |
+|------------|-----------------|
+| Easy       | 16          |
+| Medium     | 6        |
+| Hard       | 1          |
+| **Total**  | **23**     |
+
 <!-- LEETCODE_STATS_END -->
 
 <!---
