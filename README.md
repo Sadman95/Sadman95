@@ -6,14 +6,7 @@
 
 <!-- LEETCODE_STATS_START -->
 
-## 🏅 My LeetCode Stats
-
-| Difficulty | Problems Solved |
-|------------|-----------------|
-| Easy       | 16          |
-| Medium     | 6        |
-| Hard       | 1          |
-| **Total**  | **23**     |
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/Sadman95)
 
 <!-- LEETCODE_STATS_END -->
 
