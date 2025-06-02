@@ -6,7 +6,8 @@
 
 <!-- LEETCODE_STATS_START -->
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Sadman95)](https://leetcode.com/Sadman95)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Sadman95)]
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sad-man09)
 
 <!-- LEETCODE_STATS_END -->
 
