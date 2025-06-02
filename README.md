@@ -6,7 +6,7 @@
 
 <!-- LEETCODE_STATS_START -->
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/Sadman95)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Sadman95)](https://leetcode.com/Sadman95)
 
 <!-- LEETCODE_STATS_END -->
 
